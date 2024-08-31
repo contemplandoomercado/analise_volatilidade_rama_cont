@@ -1,0 +1,8 @@
+name: analise_volatilidade_rama_cont
+channels:
+- conda-forge
+dependencies:
+- pandas=2.2.2=py312h72972c8_1
+- seaborn=0.13.2=hd8ed1ab_2
+- scikit-learn=1.5.1=py312h816cc57_0
+- tqdm=4.66.5=pyhd8ed1ab_0
